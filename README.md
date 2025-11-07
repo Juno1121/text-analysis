@@ -1,3 +1,5 @@
+Use code view to read this:
+
 # IMDb Reviews Analyzer
 
 ## 1. Project Overview
@@ -199,3 +201,4 @@ The modular architecture makes these improvements straightforward to implement w
 #   t e x t - a n a l y s i s 
  
  
+
