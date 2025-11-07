@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Cache files
+reviews_cache.pkl
+*.pkl
+
+# Generated output files
+review_wordfreqs.tsv
+example-output.txt
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+venv/
+env/
+ENV/
+
+# Kaggle dataset cache (if downloaded locally)
+imdb_dataset.csv
+
